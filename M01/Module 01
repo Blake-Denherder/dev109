@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Module 01</title>
+	</head>
+	<body>
+      <h1> Module 01: Introduction to HTML</h1>
+      <h2> Created by: Blake Denherder</h2>
+      <hr>
+      <h3>The best classic banana bread recipe:</h3>
+		<figure>
+			<a href="https://www.spendwithpennies.com/classic-banana-bread/" target="_blank"><img src="https://i.pinimg.com/564x/74/5b/02/745b022b8847ed1ef4d23c3e207876af.jpg"target="_blank" width="300" height="400" alt="Classic Banana Bread" title="Classic Banana Bread" /></a>
+			<p>
+				<figcaption>
+					This recipe for Banana bread is so moist and delicious!
+				</figcaption>
+			</p>
+		</figure>
+		<h4>More Recipes:</h4>
+		<p>
+			<a href="https://www.spendwithpennies.com/banana-chocolate-chip-muffins/" target="_blank"><img src="https://www.spendwithpennies.com/wp-content/uploads/2020/01/Banana-Chocolate-Chip-Muffins-SpendWithPennies-8.jpg" width="150" height="200" alt="banana chocolate chip muffins" title="banana chocolate chip muffins" /></a>
+			<a href="https://www.spendwithpennies.com/triple-chocolate-banana-bread/" target="_blank"><img src="https://www.spendwithpennies.com/wp-content/uploads/2016/07/SpendWithPennies-Chocolate-Banana-Bread-21.jpg"width="150" height="200" alt="chocolate banana bread" title="chocolate banana bread" /></a>
+			<a href="https://www.spendwithpennies.com/banana-cake/" target="_blank"><img src="https://www.spendwithpennies.com/wp-content/uploads/2013/11/The-Best-Banana-Cake-23.jpg"width="150" height="200" alt="the best banana cake" title="the best banana cake" /></a>
+            <a href="https://www.spendwithpennies.com/wp-content/uploads/2022/09/1200-Banana-Bread-Muffins-2-SpendWithPennies-768x1152.jpg" target="_blank"><img src="https://www.spendwithpennies.com/wp-content/uploads/2022/09/1200-Banana-Bread-Muffins-2-SpendWithPennies-768x1152.jpg"width="150" height="200" alt="banana bread muffins" title="banana bread muffins" /></a>
+            <a href="https://www.spendwithpennies.com/healthy-breakfast-cookies/" target="_blank"><img src="https://www.spendwithpennies.com/wp-content/uploads/2022/04/Banana-Breakfast-Cookies-SpendWithPennies-5-700x1050.jpg"width="150" height="200" alt="Banana breakfast cookies" title="Banana breakfast cookies" /></a>
+		</p>
+      <p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p>
+	</body>
+</html>
